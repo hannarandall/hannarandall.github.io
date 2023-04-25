@@ -2,7 +2,7 @@
 layout: page
 title: Neuro-divergent Art Jam
 description: "A series of weekly art-making and creative writing workshops for PhD researchers who identify as neurodivergent (autism, ADHD, dyslexia, dyspraxia, anxiety, depression etc.) (2022)"
-img: assets/img/art-jam/art-jam.png
+img: assets/img/projects/art-jam/art-jam.png
 importance: 99
 permalink:  projects-events/art-jam/
 category: workshops
@@ -11,7 +11,7 @@ category: workshops
 
 <div class="row">
     <div class="col-sm mt-1 mt-md-0">
-        {% include figure.html path="assets/img/art-jam/art-jam-2.png" title="a photo" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/projects/art-jam/art-jam-2.png" title="a photo" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -24,10 +24,10 @@ The SHL is such a great space for this sort of community-based workshop series t
 
 <div class="row">
     <div class="col-sm mt-1 mt-md-0">
-        {% include figure.html path="assets/img/art-jam/art-jam-3.png" title="a photo" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/projects/art-jam/art-jam-3.png" title="a photo" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-1 mt-md-0">
-        {% include figure.html path="assets/img/art-jam/art-jam-4.png" title="a photo" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/projects/art-jam/art-jam-4.png" title="a photo" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -35,6 +35,6 @@ Embodied ways of thinking, such as art-making and creative writing, are often a 
 
 <div class="row">
     <div class="col-sm mt-1 mt-md-0">
-        {% include figure.html path="assets/img/art-jam/art-jam-poster.jpg" title="a photo" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/projects/art-jam/art-jam-poster.jpg" title="a photo" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

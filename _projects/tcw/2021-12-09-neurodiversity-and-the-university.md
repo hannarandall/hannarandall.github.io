@@ -2,7 +2,7 @@
 layout: page
 title: Neurodiversity and the University
 description: "with Nick Walker, Lizzie Huxley-Jones and KR Moorhead (Dec 2021)"
-img: assets/img/tcw/neurodiversity-and-the-university.png
+img: assets/img/projects/tcw/neurodiversity-and-the-university.png
 importance: 3
 permalink: projects-events/tcw/neurodiversity-and-the-university/
 category: "teaching creative writing series"

@@ -2,7 +2,7 @@
 layout: page
 title: Queer Space and Place
 description: "with Declan Wiffen (Feb 2022)"
-img: assets/img/tcw/queer-space-and-place.png
+img: assets/img/projects/tcw/queer-space-and-place.png
 importance: 5
 permalink: projects-events/tcw/queer-space-and-place/
 category: "teaching creative writing series"

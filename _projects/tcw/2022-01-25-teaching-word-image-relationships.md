@@ -2,7 +2,7 @@
 layout: page
 title: Teaching Word-Image Relationships
 description: "with Bethan Stevens, Sophie Herxheimer and Emily Haworth-Booth (January 2022)"
-img: assets/img/tcw/teaching-word-image-relationships.png
+img: assets/img/projects/tcw/teaching-word-image-relationships.png
 importance: 4
 permalink: projects-events/tcw/teaching-word-image-relationships/
 category: "teaching creative writing series"

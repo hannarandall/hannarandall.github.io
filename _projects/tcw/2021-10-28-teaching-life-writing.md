@@ -2,7 +2,7 @@
 layout: page
 title: Teaching Life Writing
 description: "with Hope Wolf, Margaretta Jolly and Tessa McWatt (Oct 2021)"
-img: assets/img/tcw/teaching-life-writing.jpg
+img: assets/img/projects/tcw/teaching-life-writing.jpg
 importance: 1
 permalink: projects-events/tcw/teaching-life-writing/
 category: "teaching creative writing series"
@@ -10,7 +10,7 @@ category: "teaching creative writing series"
 
 <div class="row">
     <div class="col-sm mt-1 mt-md-0">
-        {% include figure.html path="assets/img/tcw/teaching-life-writing.jpg" title="a photo" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/projects/tcw/teaching-life-writing.jpg" title="a photo" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 

@@ -2,7 +2,7 @@
 layout: page
 title: Widening Access to African Literatures
 description: "with Vimbai Shire, Zaahida Nabagereka and Olivia Danso (Apr 2022)"
-img: assets/img/tcw/widening-access-to-african-literatures.png
+img: assets/img/projects/tcw/widening-access-to-african-literatures.png
 importance: 6
 permalink: projects-events/tcw/widening-access-to-african-literatures/
 category: "teaching creative writing series"

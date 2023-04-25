@@ -2,7 +2,7 @@
 layout: page
 title: Teaching Creative Non-fiction with a Black Feminist Methodology
 description: "with Minna Salami (Nov 2021)"
-img: assets/img/tcw/teaching-creative-non-fiction-with-a-black-feminist-methodology.png
+img: assets/img/projects/tcw/teaching-creative-non-fiction-with-a-black-feminist-methodology.png
 importance: 2
 permalink: projects-events/tcw/teaching-creative-non-fiction-with-a-black-feminist-methodology/
 category: "teaching creative writing series"

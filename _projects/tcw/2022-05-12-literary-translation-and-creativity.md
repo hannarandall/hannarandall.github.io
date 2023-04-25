@@ -2,7 +2,7 @@
 layout: page
 title: Literary Translation and Creativity
 description: "with Polly Barton and Cecilia Rossi (May 2022)"
-img: assets/img/tcw/literary-translation-and-creativity.png
+img: assets/img/projects/tcw/literary-translation-and-creativity.png
 importance: 7
 permalink: projects-events/tcw/literary-translation-and-creativity/
 category: "teaching creative writing series"

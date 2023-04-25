@@ -2,7 +2,7 @@
 layout: page
 title: The Value of Creative Writing Retreats and Writer’s Awards
 description: "with Mary Morris and Rachel Humphries (May 2022)"
-img: assets/img/tcw/the-value-of-creative-writing-retreats-and-writers-awards.png
+img: assets/img/projects/tcw/the-value-of-creative-writing-retreats-and-writers-awards.png
 importance: 8
 permalink: projects-events/tcw/the-value-of-creative-writing-retreats-and-writers-awards/
 category: "teaching creative writing series"

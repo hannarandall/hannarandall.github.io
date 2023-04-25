@@ -38,9 +38,11 @@
 			"assets/css": true,
 			"assets/js": true,
 			"assets/plotly": true,
+			"assets/bibliography": true,
 			"assets/img/publication_preview": true,
 			"assets/img/favicon.ico": true,
 			"assets/img/pagespeed.svg": true,
+			"_site":true,
 		},
 	}
 }
