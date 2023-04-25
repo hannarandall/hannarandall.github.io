@@ -1,0 +1,169 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Hanna Randall
+    - name: D.O.B
+      value: May 1986
+    - name: Languages
+      value: English
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD Creative and Critical Writing
+      institution: University of Sussex, Brighton, United Kingdom
+      year: 2019 - Present
+      description:
+        - "Thesis Title: Rendering the Urban Invisible: Writing the Neuroqueer City"
+      #   - Description 2.
+      #   - title: Description 3.
+      #     contents:
+      #       - Sub-description 1.
+      #       - Sub-description 2.
+    - title: MA Japanese Studies (Distinction)
+      institution: School of Oriental and African Studies, London, United Kingdom
+      year: 2018 - 2019
+      description:
+        - "Dissertation Title: Cultivating Space: A Psychogeographic Reading of Murakami Haruki’s Kafka on the Shore"
+      #   - Description 2.
+    - title: PgDip in Theatre Costume (Distinction)
+      institution: Royal Academy of Dramatic Art, London, United Kingdom
+      year: 2012 - 2014
+      # description:
+      #   - Description 1.
+      #   - Description 2.
+    - title: BA Fashion, Costume & Textiles Design (First Class)
+      institution: Cambridge School of Art, Cambridge, United Kingdom
+      year: 2010 - 2012
+      # description:
+      #   - Description 1.
+      #   - Description 2.
+
+- title: Experience
+  type: time_table
+  contents:    
+    - title: CHASE Knowledge Exchange Hub Officer
+      institution: University of Sussex, Brighton, United Kingdom
+      year: 2022 - Present
+      description:
+        - Event/training curation and organisation around HE and non-HE knowledge exchange activities, website maintenance, administrative duties, conducting various research projects and writing/presenting reports, liaising with students/alumni and academic staff, social media content creation and maintaining online presence.
+ 
+    - title: Doctoral & Associate Tutor
+      institution: University of Sussex, Brighton, United Kingdom
+      year: 2021 - Present
+      description:
+        - Workshop/seminar tutor on undergraduate modules. Online, in-person and blended teaching, one-to-one tutorials, marking and feedback, creation, and delivery of asynconrous learning material,maintenance of online learning platform.
+        - title: Undergraduate modules.
+          contents:
+            - Writing for Theatre
+            - "Technologies of Capture: Nineteenth Century Literature and Photography"
+            - Thinking Literature 2
+            - Word & Image
+            - "Special Author: William Blake"
+
+    - title: Freelance Theatrical Costume Maker
+      institution: Self Employed
+      year: 2010 - Present
+      description:
+        - Pattern cutting, design realisation, costume, and textiles decoration / dyeing / painting for a variety of UK theatres including Shakespeare’s Globe and Wise Children. Projects require in- depth historical and contemporary research and meticulous attention to detail, as well as following strict briefs and deadlines with innovative pattern cutting and construction.
+      
+    
+    - title: Creative Writing Tutor
+      institution:  Oxbridge Academic Programs, Oxford University, United Kingdom
+      year: 2022 - 2023
+      description:
+        - Planning, development, and delivery of intensive 2 and 4-week creative writing program for young people.
+    
+    - title: Academic Event Organiser and Workshop Tutor
+      institution:  University of Sussex, Brighton, United Kingdom
+      year: 2022 - 2023
+      description: 
+        - Planning and delivery of online event series titled ‘Teaching Creative Writing,’ funded by CHASE. Planning and delivery of in-person creative writing and art-making workshops, and exhibition titled ‘Neurodivergent Art Jam.’
+    
+    - title: Workshop Tutor
+      institution:  National Saturday Club, University of Sussex, Brighton, United Kingdom
+      year: 2022
+      description: 
+        - Planning and delivery of creative writing and art-making workshops around themes of mapping and landscape to young people aged 12-18 years old.
+    
+    - title: PhD Community Advocate
+      institution:  Sussex Humanities Lab, University of Sussex, Brighton, United Kingdom
+      year: 2021 - 2022
+      description: 
+        - Planning and delivery of a PGR symposium, online/in-person creative archival workshops, community engagement, administrative duties and maintaining social media platforms
+    
+    - title: Workshop Organiser
+      institution:  University of Sussex, Brighton, United Kingdom
+      year: 2020
+      description: 
+        - Organisation of ‘Beyond the Archive,’ workshops. Duties included workshop planning, liaising with participants, online technical support during workshops, writing blog and social media posts.
+    
+    - title: Volunteer Support Worker Co-ordinator
+      institution:  Brighton Exiled / Refugee Trauma Service, Brighton, United Kingdom
+      year: 2019 - 2021
+      description: 
+        - Administrative duties, support worker and client liaison, researching and collating resources.
+    
+    - title: Theatrical Costume Maker
+      institution:  Will Skeet Costume, London, United Kingdom
+      year: 2012 - 2018
+      description: 
+        - Costume construction and textiles decoration on various West End musicals, opera, dance, and theatre productions. Studio and project management, overseeing and organisation of team workflow, skills training, various administrative duties with Word and Outlook, and personal assistant duties.
+    
+    - title: Wardrobe Assistant and Costume Maker
+      institution:  Shakespeare’s Globe Theatre, London, United Kingdom
+      year: 2014 - 2016
+      description: 
+        - Costume construction, dressing of actors, wardrobe maintenance requiring in-depth historical research, accuracy, and attention to detail within a team environment.
+    
+    - title: Wardrobe Assistant and Costume Maker
+      institution:  Elizabeth Whiting Costume, New Zealand
+      year: 2013
+      description: 
+        - Costume construction, textiles decoration, dressing and wardrobe maintenance.
+    
+    - title: Costume Maker, Dyer, and Designer
+      institution:  Various, London, United Kingdom
+      year: 2010 - 2012
+      description: 
+        - Costume design, construction and dyeing for various theatrical productions.
+
+
+- title: Awards & Nominations
+  type: time_table
+  contents:
+    - year: 2022
+      items: 
+        - Runner up <a href="https://mslexia.co.uk/">Mslexia Novel Prize</a>
+    - year: 2018
+      items: 
+        - Joint winner of the <a href="https://www.moniackmhor.org.uk/writers/awards-residencies/the-bridge-awards/2018-winners/">Bridge Award</a> for Emerging Writer
+    - year: 2017
+      items: 
+        - Long listed for the <a href="https://www.bathflashfictionaward.com/2017/10/october-2017-award-long-list/">Bath Flash Fiction award</a>.
+
+- title: Certifications
+  type: time_table
+  contents:
+    - year: 2021
+      items: 
+        - Associate Fellowship of the HEA
+
+
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Item
+#       items: 
+#         - Description 1.
+#         - Description 2.
+#     - title: Item
+#       # items:
+#       #   - Description 1.
+#       #   - Description 2.
+
+# - title: Other Interests
+#   type: nested_list
+#   contents:
+#     - title: "<b>Example</b>: Hobbies"
