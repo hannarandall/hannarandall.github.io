@@ -31,7 +31,6 @@
 			"_sass": true,
 			"_plugins": true,
 			"_data": true,
-			"_bibliography": true,
 			"LICENSE": true,
 			"robots.txt": true,
 			".github": true,

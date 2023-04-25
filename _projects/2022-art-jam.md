@@ -2,7 +2,7 @@
 layout: page
 title: Neuro-divergent Art Jam
 description: "A series of weekly art-making and creative writing workshops for PhD researchers who identify as neurodivergent (autism, ADHD, dyslexia, dyspraxia, anxiety, depression etc.) (2022)"
-img: assets/img/art-jam.png
+img: assets/img/art-jam/art-jam.png
 importance: 99
 permalink:  projects-events/art-jam/
 category: workshops
