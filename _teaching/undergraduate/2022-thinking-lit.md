@@ -5,5 +5,5 @@ description: "Doctoral Tutor (Jan 2022)"
 permalink: teaching
 category: undergraduate
 importance: 98
-img: assets/img/thinking-literature.jpg
+img: assets/img/teaching/thinking-literature.jpg
 ---

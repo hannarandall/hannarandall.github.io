@@ -2,7 +2,7 @@
 layout: page
 title: CHASE Knowledge Exchange Hub
 description: "Placement conducting various research projects and writing/presenting reports (2022)"
-img: assets/img/chase-keh.png
+img: assets/img/chase-keh/chase-keh.png
 importance: 1
 permalink:  projects-events/chase-keh
 category: organisation
@@ -38,7 +38,7 @@ Knowledge exchange at CHASE can take many forms but functions primarily through 
 
 <div class="row">
     <div class="col-sm mt-1 mt-md-0">
-        {% include figure.html path="assets/img/chase-keh-2.png" name="a photo" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/chase-keh/chase-keh-2.png" name="a photo" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -66,7 +66,7 @@ This may include (but is not limited to):
 
 <div class="row">
     <div class="col-sm mt-1 mt-md-0">
-        {% include figure.html path="assets/img/chase-keh-3.png" name="a photo" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/chase-keh/chase-keh-3.png" name="a photo" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -105,7 +105,7 @@ KEH offers funding and support for university-based academics to design [Collabo
 
 <div class="row">
     <div class="col-sm mt-1 mt-md-0">
-        {% include figure.html path="assets/img/chase-keh-4.png" name="a photo" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/chase-keh/chase-keh-4.png" name="a photo" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 

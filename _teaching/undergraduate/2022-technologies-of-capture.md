@@ -5,5 +5,5 @@ description: Photography and Nineteenth Century Literature. <br> - Doctoral Tuto
 permalink: teaching
 category: undergraduate
 importance: 100
-img: assets/img/technologies-of-capture.jpg
+img: assets/img/teaching/technologies-of-capture.jpg
 ---
