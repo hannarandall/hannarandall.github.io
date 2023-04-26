@@ -1,3 +1,7 @@
+To sync to your latest live site locally:
+1. On the bottom status bar, next to "main", click the sync button
+2. If it shows changes to pull down, click the arrow.
+
 To enable a local site:
 1. Terminal > New Terminal
 2. Type "bundle exec jekyll serve"
