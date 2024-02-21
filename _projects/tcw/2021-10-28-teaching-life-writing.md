@@ -10,7 +10,7 @@ category: "teaching creative writing series"
 
 <div class="row">
     <div class="col-sm mt-1 mt-md-0">
-        {% include figure.html path="assets/img/projects/tcw/teaching-life-writing.jpg" title="a photo" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/projects/tcw/teaching-life-writing.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 

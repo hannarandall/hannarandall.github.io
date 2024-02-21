@@ -11,7 +11,7 @@ category: workshops
 
 <div class="row">
     <div class="col-sm mt-1 mt-md-0">
-        {% include figure.html path="assets/img/projects/art-jam/art-jam-2.png" title="a photo" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/projects/art-jam/art-jam-2.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -24,10 +24,10 @@ The SHL is such a great space for this sort of community-based workshop series t
 
 <div class="row">
     <div class="col-sm mt-1 mt-md-0">
-        {% include figure.html path="assets/img/projects/art-jam/art-jam-3.png" title="a photo" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/projects/art-jam/art-jam-3.png" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-1 mt-md-0">
-        {% include figure.html path="assets/img/projects/art-jam/art-jam-4.png" title="a photo" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/projects/art-jam/art-jam-4.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -35,6 +35,6 @@ Embodied ways of thinking, such as art-making and creative writing, are often a 
 
 <div class="row">
     <div class="col-sm mt-1 mt-md-0">
-        {% include figure.html path="assets/img/projects/art-jam/art-jam-poster.jpg" title="a photo" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/projects/art-jam/art-jam-poster.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

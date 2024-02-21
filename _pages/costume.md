@@ -3,9 +3,9 @@ layout: page
 permalink: /costume/
 title: costume
 # description: Materials for courses you taught. Replace this text with your description.
-nav: false
+nav: true
 nav_order: 5
-display_categories: [theatre, musical, tv]
+display_categories: [Cabaret, Shakespeare's Globe Theatre, Royal Shakespeare Company, Lapland]
 horizontal: false
 ---
 
