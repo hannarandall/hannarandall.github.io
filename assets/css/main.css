@@ -504,6 +504,37 @@ footer.sticky-bottom {
   text-align: right;
 }
 
+.costume a {
+  text-decoration: none;
+}
+.costume a:hover .card-title {
+  color: var(--global-theme-color);
+}
+.costume .card img {
+  width: 100%;
+}
+.costume .card-item {
+  width: auto;
+  margin-bottom: 10px;
+}
+.costume .card-item .row {
+  display: flex;
+  align-items: center;
+}
+.costume .grid-sizer,
+.costume .grid-item {
+  width: 250px;
+  margin-bottom: 10px;
+}
+.costume h2.category {
+  color: var(--global-divider-color);
+  border-bottom: 1px solid var(--global-divider-color);
+  padding-top: 0.5rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  text-align: right;
+}
+
 .teaching a {
   text-decoration: none;
 }
