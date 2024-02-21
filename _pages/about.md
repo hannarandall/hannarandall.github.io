@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <i>writer, doctoral researcher, tutor and costume maker</i>
+subtitle: <i>writer, tutor and costume maker</i>
 
 profile:
   align: right
