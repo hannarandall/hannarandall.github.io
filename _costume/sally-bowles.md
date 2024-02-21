@@ -2,7 +2,7 @@
 layout: page
 # Add title, description, date, image file, importance, link url, and category below
 title: Cabaret
-description: "Maud Apatow as Sally Bowles"
+description: "Maud Apatow and Rebecca Lucy Taylor as Sally Bowles"
 img: assets/img/costume/cabaret/sally-bowles.jpg
 importance: 1
 permalink:  costume/cabaret-2/
