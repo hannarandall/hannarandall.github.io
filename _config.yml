@@ -8,7 +8,7 @@ middle_name:
 last_name: Randall, Ph.D.
 email: hanna.randall@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Writer, tutor, and costume-maker based in Norwich, UK.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>, and hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: academic-website, portfolio-website, creative-writing,  # add your own keywords or leave empty
